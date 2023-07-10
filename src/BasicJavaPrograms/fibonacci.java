@@ -20,12 +20,11 @@ public class fibonacci
 			b=c;
 			if(c<=90)
 			{
-			System.out.print(c+" ");
-
+				System.out.print(c+" ");
+			}
+     System.out.println("11");
+			sc.close();
 		}
-
-		sc.close();
-	}
 
 	}
 }
