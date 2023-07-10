@@ -21,17 +21,11 @@ public class fibonacci
 			if(c<=90)
 			{
 			System.out.print(c+" ");
-<<<<<<< Updated upstream
-            }
-=======
-			System.out.println("fibonacci");
-			System.out.println("123");
-			System.out.println("1234");
-            
->>>>>>> Stashed changes
+
 		}
 
 		sc.close();
 	}
 
+	}
 }
