@@ -21,7 +21,7 @@ public class fibonacci
 			
 			System.out.print(c+" ");
 			System.out.println("fibonacci");
-			System.out.println("123");
+			System.out.println("1234");
             
 		}
 
