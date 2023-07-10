@@ -4,6 +4,6 @@ public class add
 {
 	public static void main(String[] args) 
 	{
-      System.out.println("created a new class");
+      System.out.println("hi helo");
 	}
 }
