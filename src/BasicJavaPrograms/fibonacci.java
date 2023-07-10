@@ -20,6 +20,8 @@ public class fibonacci
 			b=c;
 			
 			System.out.print(c+" ");
+			System.out.println("fibonacci");
+			System.out.println("123");
             
 		}
 
